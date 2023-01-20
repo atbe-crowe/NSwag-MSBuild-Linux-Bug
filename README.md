@@ -1,0 +1,1 @@
+# NSwag-MSBuild-Linux-Bug
